@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krutika Parab</h1>
 <h3 align="center">A passionate Python/Django Backend developer from India</h3>
 
-- 🔭 I’m currently working on **To-Do Project**
-
 - 🌱 I’m currently learning **Javascript, FastAPI etc.**
 
 - 📝 I regularly write articles on [https://medium.com/@kdparab001](https://medium.com/@kdparab001)
